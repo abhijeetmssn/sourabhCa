@@ -14,6 +14,7 @@ const DefaulHeader = () => {
     } else {
       setNavbar(false);
     }
+    
   };
 
   useEffect(() => {
