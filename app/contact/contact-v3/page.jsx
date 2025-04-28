@@ -48,9 +48,9 @@ const ContactV3 = () => {
               </div>
             </div>
 
-            <div className="row justify-content-center">
+            {/* <div className="row justify-content-center">
               <BlockContact3 />
-            </div>
+            </div> */}
           </div>
           {/* End container */}
         </div>

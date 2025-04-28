@@ -14,7 +14,7 @@ const DefaulHeader = () => {
     } else {
       setNavbar(false);
     }
-    
+
   };
 
   useEffect(() => {
@@ -26,9 +26,8 @@ const DefaulHeader = () => {
 
   return (
     <header
-      className={`theme-main-menu sticky-menu theme-menu-six ${
-        navbar ? "fixed" : ""
-      }`}
+      className={`theme-main-menu sticky-menu theme-menu-six ${navbar ? "fixed" : ""
+        }`}
     >
       <div className="inner-content position-relative">
         <div className="d-flex align-items-center justify-content-between">
@@ -61,7 +60,7 @@ const DefaulHeader = () => {
               href="/contact/contact-v3"
               className="start-btn-one fs-18 fw-500 tran3s position-relative d-none d-lg-block"
             >
-              Get Started
+              CA Consult
             </Link>
           </div>{" "}
           {/* /.right-widget */}
