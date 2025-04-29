@@ -27,7 +27,7 @@ const Hero = () => {
                 industry-leading load times.
               </p> */}
               <Link
-                href="/contact"
+                href="/contact/contact-v3"
                 className="btn-fourteen fw-500 tran3s"
               >
                 Contact us for a free consult
