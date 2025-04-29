@@ -85,12 +85,7 @@ const ContactV3 = () => {
 				Fancy Short Banner Ten
 			=====================================================
 			*/}
-      <div
-        className="fancy-short-banner-ten position-relative mt-225 lg-mt-100"
-        data-aos="fade-up"
-      >
-        
-      </div>
+      
       {/* /.fancy-short-banner-ten */}
       {/*
 		=====================================================
