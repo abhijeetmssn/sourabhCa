@@ -7,15 +7,15 @@ const Testimonial = () => {
   const testimonials = [
     {
       quote:
-        "Very easy to set up. I had no experience with hosting before signing up with HostGator but they've made everything seem simple.",
+        "Our business has grown significantly thanks to their financial expertise. From tax planning to monthly audits, our CA has been a strategic partner in every sense. Highly recommended!",
       author: "Rashed ka.",
-      location: "Italy",
+      location: "Canada",
     },
     {
       quote:
-        "Very easy to set up. I had no experience with hosting before signing up with HostGator but they've made everything seem simple.",
+        "We rely on our CA not just for compliance, but for clarity. From funding advice to ESOP structuring, their insights have saved us time, money, and headaches.",
       author: "Zubayer Hasan",
-      location: "Spain",
+      location: "Canada",
     },
   ];
 

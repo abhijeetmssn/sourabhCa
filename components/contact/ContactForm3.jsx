@@ -10,7 +10,7 @@ const ContactForm3 = () => {
             <label className="d-block">Name*</label>
             <input
               type="text"
-              placeholder="Bostmai Hasan"
+              placeholder="Your name"
               name="name"
               required="required"
             />
@@ -24,7 +24,7 @@ const ContactForm3 = () => {
             <label className="d-block">Email*</label>
             <input
               type="email"
-              placeholder="demo@domain.com"
+              placeholder="Your email"
               name="email"
               required="required"
             />

@@ -1,36 +1,21 @@
 const Faq = () => {
   const faqData = [
     {
-      question: "What is web hosting?",
+      question: "How much do you charge for ITR filing?",
       answer:
-        "Duis aute irure dolor in reprehenderit in voluptate velit ess dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupid non proident, sunt in culpa qui officia deserunt.",
+        "Our pricing depends on the complexity of your income sources. Basic salaried ITRs start at ₹999, while business or capital gains cases are priced individually after a consultation.",
     },
     {
-      question: "How do you weigh different criteria in your process?",
+      question: "What services do Chartered Accountants provide?",
       answer:
-        "Duis aute irure dolor in reprehenderit in voluptate velit ess dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupid non proident, sunt in culpa qui officia deserunt.",
+        "Chartered Accountants offer a wide range of services including tax planning and filing, auditing, financial statement preparation, GST compliance, business advisory, and investment planning.",
     },
     {
-      question: "What can I use to build my website?",
+      question: "Do I need a CA to file my income tax return?",
       answer:
-        "Duis aute irure dolor in reprehenderit in voluptate velit ess dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupid non proident, sunt in culpa qui officia deserunt.",
+        "While individuals can file their own returns, a CA ensures accuracy, helps you claim eligible deductions, and minimizes the risk of notices from the Income Tax Department.",
     },
-    {
-      question:
-        "If I already have a website, can I transfer it to your web hosting?",
-      answer:
-        "Duis aute irure dolor in reprehenderit in voluptate velit ess dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupid non proident, sunt in culpa qui officia deserunt.",
-    },
-    {
-      question: "How can I accept credit cards online?",
-      answer:
-        "Duis aute irure dolor in reprehenderit in voluptate velit ess dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupid non proident, sunt in culpa qui officia deserunt.",
-    },
-    {
-      question: "What are the additional requirements I should know about?",
-      answer:
-        "Duis aute irure dolor in reprehenderit in voluptate velit ess dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupid non proident, sunt in culpa qui officia deserunt.",
-    },
+    
   ];
 
   return (

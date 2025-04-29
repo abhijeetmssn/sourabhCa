@@ -66,7 +66,7 @@ const MainMenu = () => {
           </li>
           {/* End li (home mega menu) */}
 
-          <li className="nav-item  dropdown">
+          {/* <li className="nav-item  dropdown">
             <a
               // className="nav-link dropdown-toggle"
               className={
@@ -119,10 +119,10 @@ const MainMenu = () => {
                 </li>
               ))}
             </ul>
-          </li>
+          </li> */}
           {/* End li (pages) */}
 
-          <li className="nav-item dropdown">
+          {/* <li className="nav-item dropdown">
             <a
               // className="nav-link dropdown-toggle"
               className={
@@ -151,10 +151,10 @@ const MainMenu = () => {
                 </li>
               ))}
             </ul>
-          </li>
+          </li> */}
           {/* End li (portfolio) */}
 
-          <li className="nav-item dropdown">
+          {/* <li className="nav-item dropdown">
             <a
               // className="nav-link dropdown-toggle"
               className={
@@ -183,7 +183,7 @@ const MainMenu = () => {
                 </li>
               ))}
             </ul>
-          </li>
+          </li> */}
           {/* End li (blog) */}
 
           <li className="nav-item">
