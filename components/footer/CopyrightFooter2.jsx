@@ -22,7 +22,7 @@ const icons = [
   },
   {
     icon: "fab fa-linkedin-in",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/company/trusted-transactions-consultants/",
   },
 ];
 
