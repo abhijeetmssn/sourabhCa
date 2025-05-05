@@ -57,7 +57,7 @@ const DefaulHeader = () => {
               <span>login</span>
             </Link> */}
             <Link
-              href="/contact/contact-v3"
+              href="tel:1234567890"
               className="start-btn-one fs-18 fw-500 tran3s position-relative d-none d-lg-block"
             >
               Call 123-456-7890
