@@ -1,20 +1,8 @@
-import Link from "next/link";
-
 import CopyrightFooter2 from "@/components/footer/CopyrightFooter2";
-import Footer2 from "@/components/footer/Footer2";
-import NewsLetter from "@/components/footer/NewsLetter";
 import Header2 from "@/components/header/Header2";
-import BannerSubscribe from "@/components/home-page/home-2/BannerSubscribe";
-import FancyBanner from "@/components/home-page/home-2/FancyBanner";
-import FancyBlock from "@/components/home-page/home-2/FancyBlock";
-import Faq from "@/components/home-page/home-2/Faq";
 import Hero from "@/components/home-page/home-2/Hero";
-import IncludedPlan from "@/components/home-page/home-2/IncludedPlan";
-import Partner from "@/components/home-page/home-2/Partner";
-import Pricing from "@/components/home-page/home-2/Pricing";
-import Testimonial from "@/components/home-page/home-2/Testimonial";
-import CallToActions from "@/components/feature-web-hosting/CallToActions";
 import Service2 from "@/components/services/Service2";
+import AboutUsV1 from "@/app/pages-menu/about-us-v1/page";
 export const metadata = {
   title: "CA || HomeS",
 };
@@ -48,6 +36,8 @@ const WebHosting = () => {
           </div>
         </div>
       </div>
+
+      <AboutUsV1 />
       {/* /.fancy-feature-twentyFive */}
 
       {/*
