@@ -64,6 +64,15 @@ const MainMenu = () => {
               Home
             </Link>
           </li>
+
+          <li className="nav-item">
+            <Link
+              href="/pages-menu/about-us-v4"
+              className={isActive("/pages-menu/about-us-v4") ? "nav-link active-menu" : "nav-link"}
+            >
+              About us
+            </Link>
+          </li>
           {/* End li (home mega menu) */}
 
           {/* <li className="nav-item  dropdown">
