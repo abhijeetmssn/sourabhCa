@@ -12,7 +12,7 @@ const AboutUsV1 = () => {
 
   return (
     <>
-      <div className="fancy-feature-fiftyOne position-relative">
+      <div className="fancy-feature-fiftyOne">
         <div className="container">
           <div className="row">
             <div className="col-lg-7" data-aos="fade-right">

@@ -74,6 +74,15 @@ const MainMenu = () => {
               About us
             </Link>
           </li>
+
+          <li className="nav-item">
+            <Link
+              href="/pages-menu/service-v1"
+              className={isActive("/pages-menu/service-v1") ? "nav-link active-menu" : "nav-link"}
+            >
+              Services
+            </Link>
+          </li>
           
           <li className="nav-item">
             <a

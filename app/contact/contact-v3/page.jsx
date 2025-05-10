@@ -30,7 +30,7 @@ const ContactV3 = () => {
               <h2 className="main-title fw-bold tx-dark">
                 Get in
                 <span className="position-relative d-inline-block">
-                  Touch <img src="/images/shape/shape_96.svg" alt="shape" />
+                  Touch
                 </span>
               </h2>
             </div>
