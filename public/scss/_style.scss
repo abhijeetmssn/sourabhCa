@@ -1528,7 +1528,7 @@ body .btn-twentySix:hover:after {
 }
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Menu Six ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .theme-menu-six.theme-main-menu {
-  padding-top: 50px;
+  padding-top: 60px;
 }
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Menu Seven ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .theme-menu-seven.white-vr.theme-main-menu.sticky-menu.fixed {
@@ -5298,9 +5298,19 @@ body .btn-twentySix:hover:after {
   margin-top: 40px;
   padding: 25px 0;
 }
+
+.banner{
+  background-color: var(--prime-six);
+  color: #fff;
+  font-size: 17px;
+  z-index: 9999;
+  position: fixed;
+  height: 50px;
+  line-height: 30px; 
+}
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Hero Banner Seven ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .hero-banner-seven .bg-wrapper {
-  background: url(../images/shape/shape_94.svg) no-repeat center bottom;
+  background: url(../images/shape/custom-bg-2.jpg) no-repeat center bottom;
   background-size: cover;
   z-index: 5;
 }

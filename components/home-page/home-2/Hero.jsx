@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Hero = () => {
   return (
-    <div className="hero-banner-seven p-30">
+    <div className="hero-banner-seven">
       <div className="bg-wrapper position-relative pt-200 pb-20 md-pt-150">
         <div className="container">
           <div className="row">
@@ -37,11 +37,11 @@ const Hero = () => {
           {/* End .container */}
 
           <div className="illustration-holder" data-aos="fade-left">
-            <img
+            {/* <img
               src="/images/assets/ils_05.svg"
               alt="illustration"
               className="lazy-img main-illustration"
-            />
+            /> */}
           </div>
           {/* /.illustration-holder */}
         </div>

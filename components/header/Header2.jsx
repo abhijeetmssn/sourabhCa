@@ -25,50 +25,35 @@ const DefaulHeader = () => {
   }, []);
 
   return (
-    <header
-      className={`theme-main-menu sticky-menu theme-menu-six ${navbar ? "fixed" : ""
-        }`}
-    >
-      <div className="inner-content position-relative">
-        <div className="d-flex align-items-center justify-content-between">
-          <div className="logo order-lg-0">
-            <Link href="/" className="d-block">
-              <Image
-                src="/images/logo/logo.png"
-                alt="logo"
-                width={192}
-                height={62}
-              />
-            </Link>
-          </div>
-          {/* End logo */}
-          <div className="right-widget ms-auto d-flex align-items-center order-lg-3">
-            {/* <Link
-              href="/login"
-              className="login-btn-two fw-500 d-flex align-items-center me-3 me-xl-5"
-            >
-              <Image
-                width={20}
-                height={20}
-                src="/images/icon/icon_62.svg"
-                alt="icon"
-                className="me-2"
-              />
-              <span>login</span>
-            </Link> */}
-            <Link
-              href="tel:1234567890"
-              className="start-btn-one fs-18 fw-500 tran3s position-relative d-none d-lg-block"
-            >
-              Call 123-456-7890
-            </Link>
-          </div>{" "}
-          {/* /.right-widget */}
-          <MainMenu />
-        </div>
+    <>
+      <div className="banner fixed w-100 text-center py-2 px-3 text-white fw-semibold">
+        📞 Call us now: <a href="tel:1234567890" className="text-white">123-456-7890</a>
       </div>
-      {/* /.inner-content */}
-    </header>
+
+      <header
+        className={`theme-main-menu sticky-menu theme-menu-six`}
+      >
+        <div className="inner-content position-relative">
+          <div className="d-flex align-items-center justify-content-between">
+            <div className="logo order-lg-0">
+              <Link href="/" className="d-block">
+                <Image
+                  src="/images/logo/logo.png"
+                  alt="logo"
+                  width={192}
+                  height={62}
+                />
+              </Link>
+            </div>
+            {/* End logo */}
+            
+            {/* /.right-widget */}
+            <MainMenu />
+          </div>
+        </div>
+        {/* /.inner-content */}
+      </header>
+    </>
   );
 };
 
