@@ -2,43 +2,22 @@ const services = [
   {
     id: 1,
     icon: "/images/icon/icon_143.svg",
-    title: "Core WordPress",
+    title: "Compliance",
     list: [
-      "Personalization",
-      "Third-Party Integrations",
-      "First-Party Analytics",
-      "Hosting Setup",
-      "Security",
+      "- CRA taxes- personal salaried, self-employed and incorporated businesses",
+      "- GST/ HST filing",
+      "- Incorporation registration and annual filings",
     ],
   },
   {
     id: 2,
     icon: "/images/icon/icon_144.svg",
-    title: "Platform Audit",
-    list: ["Full Consultation", "Code Review", "Staff Augmentation", "Support"],
-  },
-  {
-    id: 3,
-    icon: "/images/icon/icon_145.svg",
-    title: "Marketing",
+    title: "Accounts Management",
     list: [
-      "Microsites",
-      "Marketing Automation",
-      "SEO & SMM",
-      "Lead Generation",
-    ],
-  },
-  {
-    id: 4,
-    icon: "/images/icon/icon_146.svg",
-    title: "e-Commerce",
-    list: [
-      "Custom Checkout Flow",
-      "Customer Identity",
-      "Conversion Rate Optimization",
-      "Security Checkup",
-      "Data Entry",
-    ],
+      "- Book-keeping- Day to day transactions records",
+      "- Payroll- Payroll deductions and remittances to CRA",
+      "- Staff Augmentation",
+      "- Compilation of Financial records"],
   },
 ];
 
@@ -46,7 +25,7 @@ const Service2 = () => {
   return (
     <>
       {services.map((service) => (
-        <div className="col-lg-3 col-sm-6" key={service.id} data-aos="fade-up">
+        <div className="col-lg-6 col-sm-6" key={service.id} data-aos="fade-up">
           <div className="card-style-twentyThree mt-40">
             <div className="icon d-flex align-items-center justify-content-center">
               <img src={service.icon} alt="icon" className="lazy-img tran3s" />

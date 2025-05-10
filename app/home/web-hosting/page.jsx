@@ -41,46 +41,12 @@ const WebHosting = () => {
             className="title-style-eleven text-center pb-50 lg-pb-20"
             data-aos="fade-up"
           >
-            <h2 className="main-title tx-dark">Quality Services</h2>
+            <h2 className="main-title tx-dark">Our Services</h2>
           </div>
           <div className="row">
             <Service2 />
           </div>
         </div>
-      </div>
-
-      <div className="fancy-feature-twentyFive mt-170 lg-mt-100">
-        <div className="container">
-          <div className="row align-items-center">
-            <div className="col-xl-9 m-auto" data-aos="fade-up">
-              <div
-                className="title-style-seven text-center pb-120 lg-pb-50"
-                data-aos="fade-up"
-              >
-                <h2 className="main-title fw-bold tx-dark">
-                  Got questions? <br /> Well, we&lsquo;ve got
-                  <span className="position-relative d-inline-block">
-                    answers <img src="/images/shape/shape_99.svg" alt="" />
-                  </span>
-                </h2>
-              </div>
-              {/* /.title-style-seven */}
-            </div>
-            <div className="col-xl-9 col-lg-10 m-auto " data-aos="fade-up">
-              <Faq />
-
-              <div className="text-center  mt-80 lg-mt-50">
-                <h3 className="fw-bold tx-dark mb-30">
-                  Didn’t get your answer?
-                </h3>
-                <Link href="/contact/contact-v3" className="btn-fourteen fw-500 tran3s">
-                  Submit your question
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-        {/* /.container */}
       </div>
       {/* /.fancy-feature-twentyFive */}
 
