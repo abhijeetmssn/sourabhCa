@@ -1,7 +1,7 @@
 const services = [
   {
     id: 1,
-    icon: "/images/icon/icon_143.svg",
+    icon: "/images/icon/compliance.png",
     title: "Compliance",
     list: [
       "- CRA taxes- personal salaried, self-employed and incorporated businesses",
@@ -11,7 +11,7 @@ const services = [
   },
   {
     id: 2,
-    icon: "/images/icon/icon_144.svg",
+    icon: "/images/icon/book final.png",
     title: "Accounts Management",
     list: [
       "- Book-keeping- Day to day transactions records",

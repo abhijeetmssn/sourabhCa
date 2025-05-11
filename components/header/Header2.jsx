@@ -27,7 +27,7 @@ const DefaulHeader = () => {
   return (
     <>
       <div className="banner fixed w-100 text-center py-2 px-3 text-white fw-semibold">
-        📞 Call us now: <a href="tel:1234567890" className="text-white">123-456-7890</a>
+        📞 Call us now: <a href="tel:4372693112" className="text-white">437-269-3112</a>
       </div>
 
       <header

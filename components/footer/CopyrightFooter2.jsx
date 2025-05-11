@@ -66,7 +66,7 @@ const Footer = () => {
           <div className="col-lg-4 order-lg-1 mt-15">
             <p className="copyright text-center m0">
               Copyright © {new Date().getFullYear()}{" "}
-              Sourab CA inc.
+              Trusted Transactions.
             </p>
           </div>
         </div>

@@ -3,7 +3,7 @@
 const services = [
   {
     id: 1,
-    icon: "/images/icon/icon_143.svg",
+    icon: "/images/icon/book final.png",
     title: "Accounting & Bookkeeping Services",
     description: [
       "We want you to focus on meeting your clients' commitments and growing your business with confidence, while we take care of your bookkeeping, tax compliance, and accounting.",
@@ -22,7 +22,7 @@ const services = [
   },
   {
     id: 2,
-    icon: "/images/icon/icon_144.svg",
+    icon: "/images/icon/compliance.png",
     title: "Tax Compliance",
     description: [
       "We ensure your taxes are done right. Our CPAs help you get every advantage at tax time. They guide you through the process in simple terms, helping you reduce obligations and maximize refunds.",
@@ -45,7 +45,7 @@ const services = [
   },
   {
     id: 3,
-    icon: "/images/icon/icon_145.svg",
+    icon: "/images/icon/tax-return.png",
     title: "Corporate Tax",
     description: [
       "Our qualified team is experienced in handling all types of corporate tax situations. We specialize in structuring and tax planning and provide expert guidance to help your business succeed.",

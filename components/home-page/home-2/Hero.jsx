@@ -16,11 +16,11 @@ const Hero = () => {
                 <i className="fas fa-chevron-right" />
               </Link> */}
               <h1 className="hero-heading fw-bold tx-dark mt-25">
-                Trust your finances to the nation’s
+                Trust our team of CPAs and tax experts for your tax
                 <span className="position-relative ms-3 d-inline-block">
-                  top CA <img src="/images/shape/shape_95.svg" alt="shape" />
+                  and
                 </span>
-                and tax experts.
+                accounting needs
               </h1>
               {/* <p className="text-lg mb-70 pt-35 pe-xxl-5 md-pt-30 lg-mb-40">
                 Already have a website? Try our hosting to alive it With

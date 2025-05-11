@@ -38,7 +38,7 @@ const ServiceV1 = () => {
             <div className="col-xxl-7 col-lg-6" data-aos="fade-right">
               <div className="title-style-five mb-45 md-mb-10">
                 <h2 className="main-title fw-500 tx-dark">
-                  Our Provided Services.
+                  Our Services Offerings.
                 </h2>
               </div>
             </div>
