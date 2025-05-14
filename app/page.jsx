@@ -1,6 +1,6 @@
 import WebHosting from "./home/web-hosting/page";
 export const metadata = {
-  title: "CA || Home",
+  title: "Home",
 };
 const MainRoot = () => {
   return <WebHosting />;

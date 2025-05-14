@@ -16,7 +16,6 @@ const services = [
     list: [
       "- Book-keeping- Day to day transactions records",
       "- Payroll- Payroll deductions and remittances to CRA",
-      "- Staff Augmentation",
       "- Compilation of Financial records"],
   },
 ];

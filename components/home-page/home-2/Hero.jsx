@@ -30,7 +30,7 @@ const Hero = () => {
                 href="/contact/contact-v3"
                 className="btn-fourteen fw-500 tran3s"
               >
-                Contact us for a free consult
+                Contact us for a free consultation
               </Link>
             </div>
           </div>

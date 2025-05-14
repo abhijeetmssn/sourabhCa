@@ -4,7 +4,7 @@ import Hero from "@/components/home-page/home-2/Hero";
 import Service2 from "@/components/services/Service2";
 import AboutUsV1 from "@/app/pages-menu/about-us-v1/page";
 export const metadata = {
-  title: "CA || HomeS",
+  title: "Home",
 };
 const WebHosting = () => {
   return (

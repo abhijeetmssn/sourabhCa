@@ -3,7 +3,7 @@ import Header2 from "@/components/header/Header2";
 import CopyrightFooter2 from "@/components/footer/CopyrightFooter2";
 
 export const metadata = {
-  title: "About Us V4 || Jano - Creative Multipurpose React NextJS Template",
+  title: "About Us",
 };
 const AboutUsV4 = () => {
   return (

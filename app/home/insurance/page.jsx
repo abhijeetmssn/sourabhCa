@@ -14,7 +14,7 @@ import Service from "@/components/home-page/home-1/Service";
 import Testimonial from "@/components/home-page/home-1/Testimonial";
 import WhyChoose from "@/components/home-page/home-1/WhyChoose";
 export const metadata = {
-  title: "CA || Home",
+  title: "Home",
 };
 const Insurance = () => {
   return (

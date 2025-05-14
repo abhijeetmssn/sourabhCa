@@ -16,7 +16,7 @@ import Subscribe from "@/components/home-page/home-13/Subscribe";
 import CopyrightFooter from "@/components/home-page/home-13/CopyrightFooter";
 import Image from "next/image";
 export const metadata = {
-  title: "CA || Home",
+  title: "Home",
 };
 const LeadGeneration = () => {
   return (

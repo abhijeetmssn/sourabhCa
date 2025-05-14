@@ -13,16 +13,12 @@ const links = [
 
 const icons = [
   {
-    icon: "fab fa-facebook-f",
-    href: "https://www.facebook.com/",
-  },
-  {
-    icon: "fab fa-twitter",
-    href: "https://www.twitter.com/",
-  },
-  {
     icon: "fab fa-linkedin-in",
     href: "https://www.linkedin.com/company/trusted-transactions-consultants/",
+  },
+  {
+    icon: "fab fa-instagram",
+    href: "https://www.instagram.com/trustedtransactionsconsultants?igsh=Y3RlanBtNGhzbm5v", // replace with your actual handle
   },
 ];
 

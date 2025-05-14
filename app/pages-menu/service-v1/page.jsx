@@ -2,7 +2,7 @@ import DefaultFooter from "@/components/footer/DefaultFooter";
 import Service1 from "@/components/services/Service1";
 import Header2 from "@/components/header/Header2";
 export const metadata = {
-  title: "Service V1 || Jano - Creative Multipurpose React NextJS Template",
+  title: "Services",
 };
 const ServiceV1 = () => {
   const features = [
